@@ -1,1 +1,1 @@
-print("Done!!!")
+print("Hello, we're gonna start soon!!!")
